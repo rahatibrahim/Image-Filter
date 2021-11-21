@@ -1,1 +1,1 @@
-A program that applies filters to BMPs
+A program that applies filters to BMPs.
